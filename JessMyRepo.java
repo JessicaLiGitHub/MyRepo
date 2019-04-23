@@ -8,7 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false李玉宵” />
 
-        branch a 12345
+        branch b 123456
   </component>
 </module>
 
